@@ -1,0 +1,30 @@
+.p1{
+		font-size: 25px;
+	display: inline-block;
+	margin-right: 35px;
+	/*border: 2px solid black;*/
+	}
+
+.gf1{
+		font-size: 35px;
+		display: inline-block;
+	 margin-right: 30px;
+	/*	border: 2px solid black;*/
+	}
+
+.conteiner{
+	width: 1170px;
+	height: 35px;
+	margin: 0 auto;
+	/*	border: 2px solid black;*/
+}
+.conteiner1{
+	width: 1170px;
+	height: 35px;
+	margin: 0 auto;
+	margin-top: 50px;
+	/*	border: 2px solid black;*/
+}
+h2{
+	font font-size: 30px;
+}
